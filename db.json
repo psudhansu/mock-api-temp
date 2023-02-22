@@ -12,5 +12,12 @@
       "age": 53,
       "email": "gnewbatt1@un.org"
     } 
+  ],
+  "cat":[
+    {
+      "id" : 1,
+      "name": "pussy"
+    }
   ]
+  
 }
