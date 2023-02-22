@@ -18,6 +18,176 @@
       "id" : 1,
       "name": "pussy"
     }
+  ],
+  "pizza":[
+    {
+      "id": 1,
+      "name":"Veg pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 349,
+      "description": "Delightful Kashundi flavours on a veg pizza which is Loaded with spicy jalapenos and tomatoes and a gentle drizzle of Kashundi sauce",
+      "size": "middum"
+    },
+    {
+      "id": 2,
+      "name":"Sicillian pizza",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.yiDZqBtt2vtvyqNPZds2xAHaEo&pid=Api&P=0",
+      "price": 449,
+      "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+      "size": "Large"
+    },
+    {
+      "id": 3,
+      "name":"Margerita veg pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.YHmT5dt-KZDqvn91MtfnlwHaFM&pid=Api&P=0",
+      "price": 299,
+      "description": "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza, including a spicy hit of Ghost Pepper flavoured Cheese",
+      "size": "short"
+    },
+    {
+      "id": 4,
+      "name":"Cal Zone pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 329,
+      "description": "its good for you",
+      "size": "short"
+    },
+   {
+      "id": 5,
+      "name":"Peperoni pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.YHmT5dt-KZDqvn91MtfnlwHaFM&pid=Api&P=0",
+      "price": 379,
+      "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+      "size": "short"
+    },
+    {
+      "id": 6,
+      "name":" cheeze Veg pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 219,
+      "description": "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza, including a spicy hit of Ghost Pepper flavoured Cheese",
+      "size": "middum"
+    },
+    {
+      "id": 7,
+      "name":" paneer Veg pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 329,
+      "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+      "size": "large"
+    },
+    {
+      "id": 8,
+      "name":"nonveg pizza",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.yiDZqBtt2vtvyqNPZds2xAHaEo&pid=Api&P=0",
+      "price": 349,
+      "description": "its good for you",
+      "size": "short"
+    },
+    {
+      "id": 9,
+      "name":"spicy nonveg pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 699,
+      "description": "American classic! Spicy, herbed chicken sausage on pizza",
+      "size": "short"
+    },
+    {
+      "id": 10,
+      "name":"naugthy pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.YHmT5dt-KZDqvn91MtfnlwHaFM&pid=Api&P=01",
+      "price": 559,
+      "description": "its good for you",
+      "size": "short"
+    },
+    {
+      "id": 11,
+      "name":" spi Veg pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 509,
+      "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+      "size": "large"
+    },
+    {
+      "id": 12,
+      "name":"chicken pizza",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.yiDZqBtt2vtvyqNPZds2xAHaEo&pid=Api&P=0",
+      "price": 499,
+      "description": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
+      "size": "middum"
+    },
+    {
+      "id": 13,
+      "name":"Veg pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 169,
+      "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+      "size": "large"
+    },
+    {
+      "id": 14,
+      "name":"lueis style pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.YHmT5dt-KZDqvn91MtfnlwHaFM&pid=Api&P=0",
+      "price": 559,
+      "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+      "size": "middum"
+    },
+    {
+      "id": 16,
+      "name":" delux nonVeg pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 669,
+      "description": "Dulex classic! Spicy, herbed chicken sausage on pizza",
+      "size": "large"
+    },
+    {
+      "id": 17,
+      "name":"mid non pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 399,
+      "description": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
+      "size": "short"
+    },
+    {
+      "id": 18,
+      "name":"veg pizza hard",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 399,
+      "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+      "size": "middum"
+    },
+    {
+      "id": 19,
+      "name":"Veg pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 189,
+      "description": "Delightful Kashundi flavours on a veg pizza which is Loaded with spicy jalapenos and tomatoes and a gentle drizzle of Kashundi sauce",
+      "size": "large"
+    },
+    {
+      "id": 20,
+      "name":"Indo nonveg pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.YHmT5dt-KZDqvn91MtfnlwHaFM&pid=Api&P=0",
+      "price": 199,
+      "description": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
+      "size": "large"
+    },
+    {
+      "id": 21,
+      "name":"Indo Veg pizza",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.yiDZqBtt2vtvyqNPZds2xAHaEo&pid=Api&P=0",
+      "price": 279,
+      "description": "Delightful Kashundi flavours on a veg pizza which is Loaded with spicy jalapenos and tomatoes and a gentle drizzle  sauce",
+      "size": "large"
+    },
+    {
+      "id": 22,
+      "name":"shy pizza",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.kOC4SVEtjR50s0-RBs5vWwHaFX&pid=Api&rs=1&c=1&qlt=95&w=140&h=101",
+      "price": 99,
+      "description": "Flavourful & meaty chicken keema and goodness of cheesy pizza coming together in an epic crossover!",
+      "size": "short"
+    }
   ]
   
 }
